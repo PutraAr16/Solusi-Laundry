@@ -14,19 +14,6 @@ Dalam pembuatan website ini, kami menggunakan framework [Tailwind](https://tailw
 #### Fitur
 
 Web yang berisi berbagai macam informasi mengenai layanan laundry yang tersedia, serta dapat melakukan pemesanan dengan mudah, lalu dapat melihat estimasi pesanan sudah selesai, dan menampilkan pesanan yang sudah selesai.
-
-## Copyright
-
-Made by Aji Saka team &copy; 2023
-
-- Members: <br>
-  - Muhammad Gimnastiar<br>
-  - Angelina Meriana<br>
-  - Fajar Alfian Simanjuntak<br>
-  - Maulina Alfiyatur Rohmaniyah<br>
-  - Syafina Audia Akira Winarto<br>
-  - Yoga Al Hafsy<br>
-  - Dwi Putra Ardiansyah<br>
   
 # Getting Started with Create React App
 
